@@ -60,7 +60,6 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\VideoController.cs" />
     <Compile Include="Assets\Scripts\EyeInteractable.cs" />
-    <Compile Include="Assets\Scripts\CreateCounter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

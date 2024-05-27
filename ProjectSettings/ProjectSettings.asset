@@ -675,11 +675,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: TDAH
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 806594a8bdcedb01
   metroApplicationDescription: TDAH
   wsaImages: {}
   metroTileShortName: 
